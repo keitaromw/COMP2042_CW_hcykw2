@@ -1,0 +1,3 @@
+awc:320
+kei:20
+Nobody:0
